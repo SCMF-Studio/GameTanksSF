@@ -1,0 +1,10 @@
+C:\Users\artem\source\repos\GameTankisSF\GameTankisSF\bin\Debug\GameTankisSF.exe.config
+C:\Users\artem\source\repos\GameTankisSF\GameTankisSF\bin\Debug\GameTankisSF.exe
+C:\Users\artem\source\repos\GameTankisSF\GameTankisSF\bin\Debug\GameTankisSF.pdb
+C:\Users\artem\source\repos\GameTankisSF\GameTankisSF\obj\Debug\GameTankisSF.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\GameTankisSF\GameTankisSF\obj\Debug\GameTankisSF.Form1.resources
+C:\Users\artem\source\repos\GameTankisSF\GameTankisSF\obj\Debug\GameTankisSF.Properties.Resources.resources
+C:\Users\artem\source\repos\GameTankisSF\GameTankisSF\obj\Debug\GameTankisSF.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\GameTankisSF\GameTankisSF\obj\Debug\GameTankisSF.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\GameTankisSF\GameTankisSF\obj\Debug\GameTankisSF.exe
+C:\Users\artem\source\repos\GameTankisSF\GameTankisSF\obj\Debug\GameTankisSF.pdb
