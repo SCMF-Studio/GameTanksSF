@@ -24,7 +24,7 @@ namespace GameTankisSF
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Привет";
+            label1.Text = "Привет!";
         }
 
         private void button2_Click(object sender, EventArgs e)
